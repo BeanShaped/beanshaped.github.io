@@ -5,7 +5,7 @@ This is a directory containing links to all portfolio projects.
 Name: Terrence Yeoh Zhirong  
 Email: terrenceyeoh38@gmail.com
 # 
-\n
+#
 ### HDB Resale Price Prediction
 #### Building an Automatic Valuation Machine for HDB Flats & Analysing Pricing Factors (Python, HTML, CSS, JavaScript)
 [Web App](https://beanshaped.pythonanywhere.com/) | [Rendered Project Notebook](https://beanshaped.github.io/HDB_Resale_Price_Prediction.html)
