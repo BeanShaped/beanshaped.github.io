@@ -6,9 +6,9 @@ Email: terrenceyeoh38@gmail.com
 
 
 ## Overview
-This document contains the links to all portfolio projects.
+This is a directory containing links to all portfolio projects.
 
-
+# 
 
 ### HDB Resale Price Prediction
 #### Building an Automatic Valuation Machine for HDB Flats & Analysing Pricing Factors (Python, HTML, CSS, JavaScript)
