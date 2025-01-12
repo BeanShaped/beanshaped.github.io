@@ -1,12 +1,9 @@
 # Portfolio Link Repository
+This is a directory containing links to all portfolio projects.
 
 ## Author
 Name: Terrence Yeoh Zhirong  
 Email: terrenceyeoh38@gmail.com
-
-
-## Overview
-This is a directory containing links to all portfolio projects.
 
 # 
 
