@@ -1,4 +1,4 @@
-# Portfolio Link Repository
+# Portfolio Link Directory
 This is a directory containing links to all portfolio projects.
 
 ## Author
